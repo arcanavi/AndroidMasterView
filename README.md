@@ -1,9 +1,5 @@
 # AndroidMasterView
 
-<p align="center">
-  <br></br>
-  <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/dg_recycler_architecture.png" widht="450" height="300" />   
-</p>
 
 Recyclerview adalah sebuah library yang digunakan sebagai tempat untuk menampilkan banyak data, mirip seperti ListView, namun RecyclerView lebih banyak memiliki keunggulan dibandingkan dengan ListView. Untuk beberapa project dan aplikasi yang ada saat ini kebanyakan sudah migrasi untuk menggunakan Recyclerview
 
