@@ -11,23 +11,23 @@ Berikut adalah contoh program yang menggunakan Recyclerview :
   <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/splashscreen.png" widht="450" height="300" />   
 </p>
 
-<b>Login</b>
-<p align="center">  
+<p align="center">
+    <br><b>Login</b></br>
 <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/login.png" widht="450" height="300" />   
 </p>
 
-<b>Register</b>
 <p align="center">
+    <br><b>Register</b></br>
 <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/register.png" widht="450" height="300" />   
 </p>
 
-<b>View</b>
 <p align="center">
+    <br><b>View</b></br>
 <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/view.png" widht="450" height="300" />   
 </p>
 
-<b>Tambah</b>
 <p align="center">
+    <br><b>Tambah</b></br>
 <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/tambah.png" widht="450" height="300" />   
 </p>
 
