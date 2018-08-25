@@ -5,30 +5,28 @@ Recyclerview adalah sebuah library yang digunakan sebagai tempat untuk menampilk
 Berikut adalah contoh program yang menggunakan Recyclerview :
 
 
+<br><b>Splashscreen</b></br>
 <p align="center">
-  <b>Splashscreen</b>
-<img src="https://github.com/arcanavi/AndroidMasterView/blob/master/splashscreen.png" widht="450" height="300" />   
+  <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/splashscreen.png" widht="450" height="300" />   
 </p>
 
-
-<p align="center">
-  <b>Login</b>
+<b>Login</b>
+<p align="center">  
 <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/login.png" widht="450" height="300" />   
 </p>
 
-
+<b>Register</b>
 <p align="center">
-  <b>Register</b>
 <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/register.png" widht="450" height="300" />   
 </p>
 
+<b>View</b>
 <p align="center">
-  <b>View</b>
 <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/view.png" widht="450" height="300" />   
 </p>
 
+<b>Tambah</b>
 <p align="center">
-  <b>Tambah</b>
 <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/tambah.png" widht="450" height="300" />   
 </p>
 
