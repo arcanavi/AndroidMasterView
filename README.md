@@ -5,8 +5,9 @@ Recyclerview adalah sebuah library yang digunakan sebagai tempat untuk menampilk
 Berikut adalah contoh program yang menggunakan Recyclerview :
 
 
-<br><b>Splashscreen</b></br>
+
 <p align="center">
+  <br><b>Splashscreen</b></br>
   <img src="https://github.com/arcanavi/AndroidMasterView/blob/master/splashscreen.png" widht="450" height="300" />   
 </p>
 
